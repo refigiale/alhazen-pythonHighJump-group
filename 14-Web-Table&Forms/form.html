@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>form</title>
+</head>
+
+<body>
+    <h2>How to Create Form</h2>
+    <h6>Form itu formulir</h6>
+
+    <h4>Formulir Pendaftaran</h4>
+    <form action="" method="">
+        <p>
+            <label for="name">Fullname: </label>
+            <input type="text" disabled>
+            <label for="username">Username: </label>
+            <input type="text">
+        </p>
+        <!-- <br> -->
+        <p>
+            <label for="password">Password: </label>
+            <input type="password" name="password" id="password" minlength="6" maxlength="8">
+            <label for="email">Email: </label>
+            <input type="email">
+        </p>
+        <p>
+            <label for="tanggal">Tanggal lahir: </label>
+            <input type="date">
+            <label for="umur">Umur: </label>
+            <input type="number">
+        </p>
+        <p>
+            <label for="jenis_kelamin">Jenis Kelamin: </label>
+            <br>
+            <input type="radio" name="jenis_kelamin" value="perempuan" checked> Perempuan
+            <input type="radio" name="jenis_kelamin" value="laki-laki"> Laki-laki
+        </p>
+        <p>
+            <label for="matpel_fav">Mata Pelajaran Favorite</label>
+            <br>
+            <input type="checkbox" name="ipa" value="ipa"> IPA
+            <br>
+            <input type="checkbox" name="matematika" checked> Matematika
+            <br>
+            <input type="checkbox" name="fisika"> Fisika
+        </p>
+        <p>
+            Peminatan Olahraga:
+            <br>
+            <select name="pilih_olahraga" id="">
+                <option value="voli">Voli</option>
+                <option value="renang">Renang</option>
+                <option value="football">Football</option>
+                <option value="" selected>--Pilih--</option>
+            </select>
+        </p>
+
+        <input type="submit" value="submit" name="submit">
+        <input type="reset" value="reset" name="reset">
+        <p>
+            <button>Kirim</button>
+        </p>
+    </form>
+</body>
+
+</html>
