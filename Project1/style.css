@@ -1,0 +1,44 @@
+    body {
+      font-family: Arial, sans-serif;
+      background: linear-gradient(to bottom, #6dd5fa, #ffffff);
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+    }
+    .div-tasbih {
+      background: #fff;
+      padding: 30px;
+      border-radius: 15px;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+      text-align: center;
+    }
+    .angka {
+      font-size: 80px;
+      margin: 20px 0;
+      color: #333;
+    }
+    button {
+      padding: 15px 30px;
+      font-size: 18px;
+      margin: 10px;
+      border: none;
+      border-radius: 10px;
+      cursor: pointer;
+      transition: 0.3s;
+    }
+    .count {
+      background-color: #4c6daf;
+      color: white;
+    }
+    .count:hover {
+      background-color: #d7ecd8;
+    }
+    .reset {
+      background-color: #f44336;
+      color: white;
+    }
+    .reset:hover {
+      background-color: #f2ecec;
+    }

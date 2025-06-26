@@ -1,0 +1,61 @@
+h1{
+    color: brown;
+    background-color: cornsilk;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+/* p{
+    color: yellowgreen;
+} */
+
+.paragraf1{
+    color: blueviolet;
+}
+
+
+#paragraf2{
+    color: coral;
+}
+
+/* #form{
+    color: blue;
+} */
+
+#form label{
+    color: blue;
+}
+
+/* atau bisa menggunakan di bawah ini: */
+
+/* p label{
+    color: blue;
+} */
+
+p > label{
+    color: rgb(242, 255, 0);
+}
+
+h6{
+    color: rgb(0, 255, 149);
+    text-transform: uppercase;
+    font-style: italic;
+}
+
+/* decendent selector */
+p a {
+    color:rgb(0, 34, 255)
+}
+
+
+/* adjection sibling */
+/* 
+#paragraf_sibling + a{
+    color: brown;
+} */
+
+/* general sibling */
+#paragraf_sibling ~ a{
+    color: brown;
+}
+
