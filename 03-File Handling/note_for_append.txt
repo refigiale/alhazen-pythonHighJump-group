@@ -1,0 +1,8 @@
+Lihat di bawah ini
+aku belajar python
+aku belajar javascript
+aku belajar php
+Framework yang aku pelajari
+laravel
+django
+vue.js

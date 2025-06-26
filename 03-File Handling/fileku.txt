@@ -1,0 +1,2 @@
+Hi aku sedang belajar python file handling!
+Ini seru banget loh!

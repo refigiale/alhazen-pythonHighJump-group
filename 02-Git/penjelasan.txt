@@ -1,0 +1,17 @@
+1. Repositori (tempat penyimpanan)
+2. Git bisa untuk sharing project
+
+git (penghubung di laptop/komouter kita )
+github/gitlab (tempat untuk menyimpannya)
+
+
+
+#sebelumnya install git (yang mengakses Repositori di laptop), lalu buat akun di github (mengakses repositori online) 
+git & github (platform/software website) mereka satu kesatuan
+
+MEMBUAT REPOSITORI
+1. langsung di github
+
+
+PERINTAH GIT
+1. GIT CLONE (mendownload repositori dari github ke dalam komputer/laptop kita)
