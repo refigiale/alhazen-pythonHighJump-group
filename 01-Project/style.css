@@ -1,0 +1,95 @@
+#SupremeRex {
+    background-color: #86b7b8;
+    border-color: #1b4c4d;
+    border-style: solid;
+    border-width: 15px;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+    max-width: 500%;
+    max-height: 500%;
+}
+#PrimaryTitle {
+    margin: auto auto 3px auto;
+    width: 70%;
+    height: 100px;
+    text-align: right;
+    font-size: 100px;
+    font-style: Arial;
+}
+#BiodataTitle{
+    margin: auto auto 3px auto;
+    width: 30%;
+    height: 100px;
+    text-align: left;
+    font-size: 100px;
+    font-style: Arial;
+}
+#MyTitle{
+    margin: auto auto 3px auto;
+    width: 58%;
+    height: 10px;
+    text-align: left;
+    font-size: 100px;;
+    writing-mode: sideways-lr;
+    text-orientation: upright;
+}
+#content{
+    margin: auto auto 3px auto;
+    width: 70%;
+    height: 400px;
+    text-align: center;
+    font-size: 20px;
+}
+#information{
+    background-color: #86b7b8;
+    border-color: #1b4c4d;
+    border-style: solid;
+    border-width: 15px;
+    font-family: Arial, sans-serif;
+    margin: auto auto 3px auto;
+    width: 100%;
+    max-height: 100%;
+    text-align: center;
+}
+#informationTitle{
+    margin: auto auto 3px auto;
+    width: 70%;
+    height: 400px;
+    text-align: center;
+    font-size: 20px;
+}
+#MoreTitle{
+    margin: auto auto 3px auto;
+    width: 30%;
+    height: 80px;
+    text-align: center;
+    font-size: 100px;
+}
+#informationwordTitle{
+    margin: auto auto 3px auto;
+    width: 52.4%;
+    height: 99px;
+    text-align: right;
+    font-size: 100px;
+    rotate: 180deg;
+}
+#informationContent{
+    margin: auto auto 3px auto;
+    width: 70%;
+    height: 400px;
+    text-align: center;
+    font-size: 100px;
+}
+.button {
+  background-color: #317f81;
+  border: none;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+}
+.button {border-radius: 16px;}
